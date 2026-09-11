@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔐 Cybersecurity Lab Environment Setup
+# 🔐 CYBERSECURITY-LAB-SETUP
 
 **Building an isolated virtual lab for penetration testing and ethical hacking practice**
 </div>
